@@ -27,4 +27,4 @@ A sleek, feature-rich GUI tool to **spam**, **delete**, and **inspect** Discord 
 - Python 3.8 or higher
 - Required packages:
   ```bash
-  pip install requests pypresence colorama
+  pip install -r requirements
